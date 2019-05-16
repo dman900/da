@@ -1,0 +1,27 @@
+{
+  "RspeerEmail": "daltonlanearnett55@gmail.com",
+  "RspeerPassword": "Pred1435",
+  "AutoUpdateClient": true,
+  "Clients": [
+    {
+      "RsUsername": "fising3@mail.com",
+      "RsPassword": "Pred1435",
+      "World": 308,
+      "ScriptName": "simscape",
+      "IsRepoScript": true,
+      "ScriptArgs": "MagicPriority 30 WoodcuttingPriority 30 MeleePriority 30 RangedPriority 30 CookingPriority 30 MiningPriority 30",
+      "UseProxy": true,
+      "ProxyPort": 1080,
+      "ProxyIp": "162.243.108.161",
+      "ProxyUser": "",
+      "ProxyPass": "",
+      "Config": {
+        "LowCpuMode": true,
+        "SuperLowCpuMode": true,
+        "EngineTickDelay": 0,
+        "DisableModelRendering": false,
+        "DisableSceneRendering": false
+      }
+    }
+  ]
+}
